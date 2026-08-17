@@ -23,4 +23,6 @@ View Project → [automate-the-intake](https://github.com/grahamdfriedman12/grah
 
 Each project includes an overview, methodology, and supporting documentation where appropriate.
 
+For university-sponsored econometrics and applied-statistics research, see my [Applied Data Analysis & Econometrics](https://github.com/grahamdfriedman12/graham-friedman-applied-data-analysis) repository.
+
 Last updated: August 2026

@@ -83,3 +83,5 @@ The framework applies equally to individuals and organizations. The companies ge
 - Read the **paper** for the full philosophy, framework, and broader AI commentary
 - Read the **presentation** for the applied system, workflow walkthrough, and live showcase structure
 - Both are standalone. The paper assumes no prior knowledge of the presentation. The presentation assumes no prior knowledge of the paper.
+
+**[← Back to Independent Projects](../README.md)**

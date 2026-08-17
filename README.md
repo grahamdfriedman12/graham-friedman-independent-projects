@@ -25,4 +25,6 @@ Each project includes an overview, methodology, and supporting documentation whe
 
 For university-sponsored econometrics and applied-statistics research, see my [Applied Data Analysis & Econometrics](https://github.com/grahamdfriedman12/graham-friedman-applied-data-analysis) repository.
 
+**[← Back to Main Github Landing Page](https://github.com/grahamdfriedman12)**
+
 Last updated: August 2026

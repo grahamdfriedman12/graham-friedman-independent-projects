@@ -8,11 +8,6 @@
 **Role:** Author, Framework Designer
 **Methods:** Weighted multi-criteria decision analysis, TCO modeling, PERT three-point estimation, AHP criteria weighting, Monte Carlo simulation, sensitivity analysis, executive communication
 
-## Deliverables
-
-**Full Framework:** the-platform-selection-engine.pdf
-*(Large file, click the link above, and if it does not display immediately, use the Download button left of the pencil icon on the right-hand side of the screen to view.)*
-
 ## Project Overview
 
 Most platform decisions are made on sticker price and a feature checklist. This framework argues both are misleading: bundled pricing hides the true cost, and a capability that technically exists but needs a three-week build is not the same as one that works on day one. The engine is a repeatable method for turning a messy, high-stakes selection into a defensible, dollar-based recommendation a leadership committee can act on.
@@ -47,12 +42,13 @@ The framework runs in phases: frame the decision (trigger, success criteria, hor
 
 The framework treats the executive readout as load-bearing as the math: audience laddering (board vs. steering committee vs. working team), an answer-first deck architecture where every slide title states the takeaway, slide-time discipline, and honesty markers (labeled sources, shown bounds, stated counter-cases) that build trust with a decision-making committee.
 
-## Repository Contents
-
-- `the-platform-selection-engine.pdf` – the complete framework: all phases, both quant layers, the communication layer, and the evidence base
-
 ## How to Navigate This Project
 
 - Start with this README for context and scope
 - Read the full framework PDF for the complete phase-by-phase methodology, the quantitative layers, and the evidence base behind each principle
 - The framework is written to be run: each phase states what to produce and where to find the real numbers
+
+## Deliverable
+
+**Full Framework:** [the-platform-selection-engine.pdf](./the-platform-selection-engine.pdf)
+*(Large file, click the link above, and if it does not display immediately, use the Download button left of the pencil icon on the right-hand side of the screen to view.)*

@@ -1,4 +1,4 @@
-# Independent Projects — Graham Friedman
+# Independent Projects → Graham Friedman
 
 This repository contains self-directed work built outside any coursework: original analysis, frameworks, and systems spanning data analysis, decision modeling, and applied AI. The focus is on analytical judgment and structured problem-solving, turning complex, high-stakes questions into clear, defensible, decision-relevant recommendations.
 

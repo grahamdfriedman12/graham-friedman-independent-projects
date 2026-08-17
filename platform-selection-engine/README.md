@@ -52,3 +52,5 @@ The framework treats the executive readout as load-bearing as the math: audience
 
 **Full Framework:** [the-platform-selection-engine.pdf](./the-platform-selection-engine.pdf)
 *(Large file, click the link above, and if it does not display immediately, use the Download button left of the pencil icon on the right-hand side of the screen to view.)*
+
+**[← Back to Independent Projects](../README.md)**
